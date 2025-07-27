@@ -1,3 +1,5 @@
 CELVIN RESOLUSI
 saya ingin menguasai pemrogramman lebih baik
-saya ingin menguasai machine learning+
+saya ingin menguasai machine learning
+membuat website sendiri untuk dijadikan sebagai projek portofolio
+membuat AI sendiri untuk pembuktian bahwa saya bisa
